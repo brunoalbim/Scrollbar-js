@@ -123,3 +123,8 @@ Pronto! Dando tudo certo seu arquivo basico HTML vai estar da seguinte forma:
 ```
 
 Onde esta escrito "```<!-- Aqui vai ficar seu conteudo -->```" apague e coloque seu conteudo, pois de imediato não vai aparecer a barra pois não tem nada para rolar para baixo, mais conforme colocar conteudo ele vai aparecer.
+
+# Creditos e Informações
+
+Você pode ver mais sobre o modulo no site: http://manos.malihu.gr/jquery-custom-content-scroller/ <br>
+Temas para sua scrollbar personalizadas: http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/scrollbar_themes_demo.html
